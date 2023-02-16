@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: rgb(88, 86, 86);
+}
+.heading{
+    font-size: 100px;
+    margin-top:50px;
+    color: rgb(132, 196, 196);
+}
+.main{
+    display: flex;
+    margin: auto;
+    width: fit-content;
+    padding: 80px;
+    color :rgb(132, 196, 196);
+}
+.cube1{
+    margin-right: 20px;
+}
+.cube1 img, .cube2 img{
+    width: 150px;
+    margin-top: 20px;
+}
